@@ -27,7 +27,7 @@
   
   ## Contribution
   
-  Contributions of project go here.
+  Contribution of project goes here.
 
   ## License
 
