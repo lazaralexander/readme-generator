@@ -1,5 +1,4 @@
 # README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -59,7 +58,7 @@ THEN I am taken to the corresponding section of the README
 
 # License
 
-Copyright (c) 2022 Alexander Lazar
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
@@ -79,6 +78,8 @@ Copyright (c) 2022 Alexander Lazar
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+    Copyright (c) 2022 Alexander Lazar
 
 # Links
 
