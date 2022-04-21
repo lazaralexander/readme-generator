@@ -56,6 +56,22 @@ THEN I am taken to the corresponding section of the README
 
 [![Link to youtube video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRmzFWpU44TGXyBc4lt9FDAohdXdwPn6pfA&usqp=CAU)](https://www.youtube.com/watch?v=ZVwAAa9Zmls)
 
+# Links
+
+1. https://github.com/lazaralexander/readme-generator
+
+# Questions
+  
+Issues or questions? Email the developer(s) [here](mailto:alexanderjohnlazar@gmail.com).
+Created by Alexander Lazar. See more work at their [Github profile](https://github.com/lazaralexander).
+
+# Credits
+
+1. https://github.com/johnfyoung
+2. https://opensource.org/
+3. https://www.w3schools.com/
+4. https://www.npmjs.com/package/inquirer
+
 # License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -80,19 +96,3 @@ THEN I am taken to the corresponding section of the README
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     Copyright (c) 2022 Alexander Lazar
-
-# Links
-
-1. https://github.com/lazaralexander/readme-generator
-
-# Questions
-  
-Issues or questions? Email the developer(s) [here](mailto:alexanderjohnlazar@gmail.com).
-Created by Alexander Lazar. See more work at their [Github profile](https://github.com/lazaralexander).
-
-# Credits
-
-1. https://github.com/johnfyoung
-2. https://opensource.org/
-3. https://www.w3schools.com/
-4. https://www.npmjs.com/package/inquirer

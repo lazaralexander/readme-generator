@@ -13,27 +13,32 @@
   5. [License](#license)
   6. [Questions](#questions)
   
-  ## Installation
+  # Installation
   
   Install of project goes here.
   
-  ## Usage
+  # Usage
   
   Usage of project goes here.
   
-  ## Tests
+  # Tests
   
   Test of project goes here.
   
-  ## Contribution
+  # Contribution
   
   Contribution of project goes here.
 
-  ## License
+  # Questions
+  
+  Issues or questions? Email the developer(s) [here](mailto:example@gmail.com).
+  Created by Tim Apple. See more work at their [Github profile](https://github.com/example).
+
+  # License
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-       Permission is hereby granted, free of charge, to any person obtaining
+      Permission is hereby granted, free of charge, to any person obtaining
       a copy of this software and associated documentation files (the
       "Software"), to deal in the Software without restriction, including
       without limitation the rights to use, copy, modify, merge, publish,
@@ -53,8 +58,3 @@
       WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       
       Copyright (c) 2022 Tim Apple
-  
-  ## Questions
-  
-  Issues or questions? Email the developer(s) [here](mailto:example@gmail.com).
-  Created by Tim Apple. See more work at their [Github profile](https://github.com/example).
